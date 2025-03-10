@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/monday-file-uploader/static/css/main.7fe05bfa.css",
-    "main.js": "/monday-file-uploader/static/js/main.9470d6ba.js",
+    "main.js": "/monday-file-uploader/static/js/main.0b27a2c3.js",
     "index.html": "/monday-file-uploader/index.html",
     "main.7fe05bfa.css.map": "/monday-file-uploader/static/css/main.7fe05bfa.css.map",
-    "main.9470d6ba.js.map": "/monday-file-uploader/static/js/main.9470d6ba.js.map"
+    "main.0b27a2c3.js.map": "/monday-file-uploader/static/js/main.0b27a2c3.js.map"
   },
   "entrypoints": [
     "static/css/main.7fe05bfa.css",
-    "static/js/main.9470d6ba.js"
+    "static/js/main.0b27a2c3.js"
   ]
 }
