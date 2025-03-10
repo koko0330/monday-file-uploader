@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/monday-file-uploader/static/css/main.7fe05bfa.css",
-    "main.js": "/monday-file-uploader/static/js/main.c008a036.js",
+    "main.js": "/monday-file-uploader/static/js/main.9470d6ba.js",
     "index.html": "/monday-file-uploader/index.html",
     "main.7fe05bfa.css.map": "/monday-file-uploader/static/css/main.7fe05bfa.css.map",
-    "main.c008a036.js.map": "/monday-file-uploader/static/js/main.c008a036.js.map"
+    "main.9470d6ba.js.map": "/monday-file-uploader/static/js/main.9470d6ba.js.map"
   },
   "entrypoints": [
     "static/css/main.7fe05bfa.css",
-    "static/js/main.c008a036.js"
+    "static/js/main.9470d6ba.js"
   ]
 }
